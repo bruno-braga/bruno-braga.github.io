@@ -20,7 +20,7 @@ enableCodeCopy = true
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
 
 [header]
-  layout = "basic" # valid options: basic, fixed
+  layout = "fixed" # valid options: basic, fixed
 
 [footer]
  # showMenu = true
